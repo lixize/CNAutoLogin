@@ -1,0 +1,46 @@
+body{
+  margin: 0;
+  padding: 0;
+
+}
+
+h2{
+  text-align: center;
+}
+
+p{
+  text-align: center;
+}
+
+#main{
+  padding: 0;
+  width: 400px;
+  heiht: 450px;
+  margin:100px auto;
+}
+
+#tbl{
+  width:100%;
+  border-collapse:collapse;
+}
+
+#tbl td{
+  border:1px solid #D8D8D8;
+  text-align:center;
+  padding-top:5px;
+  padding-bottom:4px;
+}
+
+#tbl a:link, #tbl a:visited
+{
+  text-decoration: none;
+  color: black;
+}
+
+
+
+#tbl a:hover
+{
+  text-decoration: none;
+  color: blue;
+}
