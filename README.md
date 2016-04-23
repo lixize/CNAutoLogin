@@ -8,7 +8,9 @@
 
     $user = 'xxxxxx';//这里填用户名
     $password = 'xxxxxxxx'; //这里填密码
-填好就能运行使用
+
+填好之后 运行xyw.php使用
+
 
 
 本人博客 [http://www.zeyes.org/](http://www.zeyes.org/)
